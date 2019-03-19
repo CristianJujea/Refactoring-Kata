@@ -8,7 +8,7 @@ public final class QualityManager {
     }
     
     // This class is a Facade to classes with business rules to update the quality of items.
-    // Depeding on the short-term and the long-term objectives of the business, 
+    // Depeding on the short-term and on the long-term objectives of the business, 
     // this class may compose business rules by a Factory or by a Chain of Responsibility design pattern.
 
     
